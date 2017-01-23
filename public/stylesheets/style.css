@@ -10,6 +10,14 @@ h1 {
   margin: 48px;
 }
 
+.wtf {
+  font: 256px "Roboto", Helvetica, Arial, sans-serif;
+  color: white;
+  text-align: center;
+  margin: 48px;
+  margin-top: 200px;
+}
+
 h2 {
   font: 32px "Roboto", Helvetica, Arial, sans-serif;
   color: white;
@@ -29,71 +37,6 @@ h2 {
   background-size: cover;
 }
 
-/* Carousel Styling */
-.slide1{
-  background-image: url('../images/s1e1.jpg');
-  height: 800px;
-  width: 100%;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}
-.slide2{
-  background-image: url('../images/s1e2.jpg');
-  height: 800px;
-  width: 100%;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}
-.slide3{
-  background-image: url('../images/s1e3.jpg');
-  height: 800px;
-  width: 100%;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}
-.slide4{
-  background-image: url('../images/s1e4.jpg');
-  height: 800px;
-  width: 100%;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}
-.slide5{
-  background-image: url('../images/s1e5.jpg');
-  height: 800px;
-  width: 100%;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}
-.slide6{
-  background-image: url('../images/s1e6.jpg');
-  height: 800px;
-  width: 100%;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}
-.slide7{
-  background-image: url('../images/s1e7.jpg');
-  height: 800px;
-  width: 100%;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}
-.slide8{
-  background-image: url('../images/s1e8.jpg');
-  height: 800px;
-  width: 100%;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}
 .carousel-caption h1{
   font-size: 5.4em;
   font-family: 'Pacifico', cursive;

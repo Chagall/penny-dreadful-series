@@ -95,7 +95,8 @@
     "directedBy": "James Hawes",
     "airingDate": "May 3, 2015",
     "usViewers": 0.575,
-    "plot": "Sir Malcolm returns to find a new evil hunting Vanessa."
+    "plot": "Sir Malcolm returns to find a new evil hunting Vanessa.",
+    "imgUrl": "/images/s2e1"
   },
   {
     "season": 2,
@@ -105,7 +106,8 @@
     "directedBy": "James Hawes",
     "airingDate": "May 10, 2015",
     "usViewers": 0.536,
-    "plot": "Haunted by the witches, Vanessa turns to Sir Malcolm for solace. Dorian Gray meets an intriguing woman with a secret. Meanwhile, Inspector Rusk seeks out the sole survivor of the massacre at Mariner's Inn, Hecate hunts down a prize for her mother - and Ferdinand Lyle reveals the disturbing backstory of the Verbis Diablo."
+    "plot": "Haunted by the witches, Vanessa turns to Sir Malcolm for solace. Dorian Gray meets an intriguing woman with a secret. Meanwhile, Inspector Rusk seeks out the sole survivor of the massacre at Mariner's Inn, Hecate hunts down a prize for her mother - and Ferdinand Lyle reveals the disturbing backstory of the Verbis Diablo.",
+    "imgUrl": "/images/s2e2"
   },
   {
     "season": 2,
@@ -115,7 +117,8 @@
     "directedBy": "Brian Kirk",
     "airingDate": "May 17, 2015",
     "usViewers": 0.639,
-    "plot": "In a flashback, Vanessa meets The Cut-Wife, who teaches her how to harness her powers. Isolated at her lonely cottage on the moors, The Cut-Wife quickly realizes the extent of Vanessa's powers and warns her of the danger that lies ahead - and the evil that pursues her."
+    "plot": "In a flashback, Vanessa meets The Cut-Wife, who teaches her how to harness her powers. Isolated at her lonely cottage on the moors, The Cut-Wife quickly realizes the extent of Vanessa's powers and warns her of the danger that lies ahead - and the evil that pursues her.",
+    "imgUrl": "/images/s2e3"
   },
   {
     "season": 2,
@@ -125,7 +128,8 @@
     "directedBy": "Damon Thomas",
     "airingDate": "May 24, 2015",
     "usViewers": 0.640,
-    "plot": "Lyle reveals how the dark story of the Verbis Diablo affects Vanessa. Meanwhile, Hecate tries to get closer to Ethan; Angelique and Dorian's romance grows; and Inspector Rusk interviews the sole survivor of the Mariner's Inn massacre. Back at Sir Malcolm's mansion, the evening carries on - as evil lurks, ready to strike."
+    "plot": "Lyle reveals how the dark story of the Verbis Diablo affects Vanessa. Meanwhile, Hecate tries to get closer to Ethan; Angelique and Dorian's romance grows; and Inspector Rusk interviews the sole survivor of the Mariner's Inn massacre. Back at Sir Malcolm's mansion, the evening carries on - as evil lurks, ready to strike.",
+    "imgUrl": "/images/s2e4"
   },
   {
     "season": 2,
@@ -135,7 +139,8 @@
     "directedBy": "Damon Thomas",
     "airingDate": "May 31, 2015",
     "usViewers": 0.712,
-    "plot": "Vanessa, Ethan, Sir Malcolm, Sembene and Lyle protect the mansion from another attack. Meanwhile, Angelique is humiliated while out with Dorian, the Creature grows more impatient with Frankenstein and, as Evelyn works on a new totem, Hecate returns to her mother with a gift."
+    "plot": "Vanessa, Ethan, Sir Malcolm, Sembene and Lyle protect the mansion from another attack. Meanwhile, Angelique is humiliated while out with Dorian, the Creature grows more impatient with Frankenstein and, as Evelyn works on a new totem, Hecate returns to her mother with a gift.",
+    "imgUrl": "/images/s2e5"
   },
   {
     "season": 2,
@@ -146,7 +151,7 @@
     "airingDate": "June 7, 2015",
     "usViewers": 0.566,
     "plot": "Sir Malcolm gets tragic news. Roper hunts down Ethan. Dorian hosts a lavish ball in Angelique's honor - but tensions run high as Vanessa, Sir Malcolm, Evelyn, Frankenstein, Lily, Lyle and Hecate all gather together for the opulent event. And a glorious night turns to horror for Vanessa.",
-    "imgUrl": "/images/s1e1"
+    "imgUrl": "/images/s2e6"
   },
   {
     "season": 2,
@@ -157,7 +162,7 @@
     "airingDate": "June 14, 2015",
     "usViewers": 0.572,
     "plot": "Vanessa and Ethan flee to the Cut-Wife's cottage on the lonely moors and draw closer - until a figure from the past resurfaces. Back in London, Lyle and Frankenstein uncover even more disturbing information from the Verbis Diablo relics. And Lily reveals she isn't quite what she appears to be.",
-    "imgUrl": "/images/s1e2"
+    "imgUrl": "/images/s2e7"
   },
   {
     "season": 2,
@@ -168,7 +173,7 @@
     "airingDate": "June 21, 2015",
     "usViewers": 0.523,
     "plot": "The Creature unleashes his rage over Lily on Frankenstein. Inspector Rusk discovers a connection to Ethan Chandler. Sir Malcolm goes to confront Evelyn - but quickly finds himself assaulted by another one of her deadly enchantments.",
-    "imgUrl": "/images/s1e3"
+    "imgUrl": "/images/s2e8"
   },
   {
     "season": 2,
@@ -179,7 +184,7 @@
     "airingDate": "June 28, 2015",
     "usViewers": 0.604,
     "plot": "Vanessa and Ethan learn that Sir Malcolm is in danger. Desperate to save him, Vanessa goes alone to battle Evelyn, while Ethan, Frankenstein, Sembene and Lyle head to Evelyn's mansion. Plus, Lily reveals her true self to Dorian.",
-    "imgUrl": "/images/s1e1"
+    "imgUrl": "/images/s2e9"
   },
   {
     "season": 2,
@@ -189,7 +194,8 @@
     "directedBy": "Brian Kirk",
     "airingDate": "July 5, 2015",
     "usViewers": 0.746,
-    "plot": "Sir Malcolm and Frankenstein confront ghosts from their past while Lyle helps to rescue his friends. Meanwhile, Ethan leaves a tragic trail of blood in his wake, the Creature tries to escape the Putney's and Vanessa must rely on her strength to defeat the Demon and face an uncertain future."
+    "plot": "Sir Malcolm and Frankenstein confront ghosts from their past while Lyle helps to rescue his friends. Meanwhile, Ethan leaves a tragic trail of blood in his wake, the Creature tries to escape the Putney's and Vanessa must rely on her strength to defeat the Demon and face an uncertain future.",
+    "imgUrl": "/images/s2e10"
   },
   {
     "season": 3,
@@ -199,7 +205,8 @@
     "directedBy": "Damon Thomas",
     "airingDate": "May 1, 2016",
     "usViewers": 0.540,
-    "plot": "Ethan, now a prisoner under the watchful eye of Scotland Yard Inspector Rusk, is on a train speeding through the desert of the American West. Meanwhile, halfway around the world in Zanzibar, Sir Malcolm is confronted by a mysterious Native American man. Back in London, Dr. Frankenstein seeks out his old friend Dr. Jekyll. With all of her friends now scattered around the world facing their own demons, a shattered and despondent Vanessa seeks the help of Dr. Seward to battle a new evil."
+    "plot": "Ethan, now a prisoner under the watchful eye of Scotland Yard Inspector Rusk, is on a train speeding through the desert of the American West. Meanwhile, halfway around the world in Zanzibar, Sir Malcolm is confronted by a mysterious Native American man. Back in London, Dr. Frankenstein seeks out his old friend Dr. Jekyll. With all of her friends now scattered around the world facing their own demons, a shattered and despondent Vanessa seeks the help of Dr. Seward to battle a new evil.",
+    "imgUrl": "/images/s3e1"
   },
   {
     "season": 3,
@@ -209,7 +216,8 @@
     "directedBy": "Damon Thomas",
     "airingDate": "May 8, 2016",
     "usViewers": 0.554,
-    "plot": "Lily and Dorian rescue a young woman. Sir Malcolm continues on his journey with the enigmatic Kaetenay. Meanwhile, Ethan gets some unexpected help from Hecate, Drs. Frankenstein and Jekyll hatch a plan and unbeknownst to her, evil forces track Vanessa's every move."
+    "plot": "Lily and Dorian rescue a young woman. Sir Malcolm continues on his journey with the enigmatic Kaetenay. Meanwhile, Ethan gets some unexpected help from Hecate, Drs. Frankenstein and Jekyll hatch a plan and unbeknownst to her, evil forces track Vanessa's every move.",
+    "imgUrl": "/images/s3e2"
   },
   {
     "season": 3,
@@ -219,7 +227,8 @@
     "directedBy": "Damon Thomas",
     "airingDate": "May 15, 2016",
     "usViewers": 0.599,
-    "plot": "Ethan reluctantly joins forces with Hecate as they race across the desert, with Sir Malcolm and Kaetenay hot on his trail. The Creature returns to London desperately trying to put his former life back together. After Drs. Jekyll and Frankenstein's plan fails, they come up with a new strategy. Meanwhile, Lily and Dorian's young acolyte, Justine, demonstrates useful skills. And Vanessa is confronted by a familiar, who reveals a clue to her past."
+    "plot": "Ethan reluctantly joins forces with Hecate as they race across the desert, with Sir Malcolm and Kaetenay hot on his trail. The Creature returns to London desperately trying to put his former life back together. After Drs. Jekyll and Frankenstein's plan fails, they come up with a new strategy. Meanwhile, Lily and Dorian's young acolyte, Justine, demonstrates useful skills. And Vanessa is confronted by a familiar, who reveals a clue to her past.",
+    "imgUrl": "/images/s3e3"
   },
   {
     "season": 3,
@@ -229,7 +238,8 @@
     "directedBy": "Toa Fraser",
     "airingDate": "May 22, 2016",
     "usViewers": 0.482,
-    "plot": "After receiving a clue about a past experience, Vanessa convinces Dr. Seward to use a new form of therapy, hypnosis, to take her back in time."
+    "plot": "After receiving a clue about a past experience, Vanessa convinces Dr. Seward to use a new form of therapy, hypnosis, to take her back in time.",
+    "imgUrl": "/images/s3e4"
   },
   {
     "season": 3,
@@ -239,7 +249,8 @@
     "directedBy": "Paco Cabezas",
     "airingDate": "May 29, 2016",
     "usViewers": 0.656,
-    "plot": "Hecate and Ethan struggle to survive the harsh wasteland of the New Mexico desert. Kaetenay reveals to Sir Malcolm the truth behind his connection to Ethan. Back in London, Frankenstein's addition to Jekyll's formula is a success."
+    "plot": "Hecate and Ethan struggle to survive the harsh wasteland of the New Mexico desert. Kaetenay reveals to Sir Malcolm the truth behind his connection to Ethan. Back in London, Frankenstein's addition to Jekyll's formula is a success.",
+    "imgUrl": "/images/s3e5"
   },
   {
     "season": 3,
@@ -249,7 +260,8 @@
     "directedBy": "Paco Cabezas",
     "airingDate": "June 5, 2016",
     "usViewers": 0.722,
-    "plot": "Vanessa turns to old friend Ferdinand Lyle for help, who introduces her to Catriona Hartdegen, a new ally. Lily, Dorian and Justine put their plan in motion. Ethan, Sir Malcolm and Hecate arrive at Jarod Talbot's ranch."
+    "plot": "Vanessa turns to old friend Ferdinand Lyle for help, who introduces her to Catriona Hartdegen, a new ally. Lily, Dorian and Justine put their plan in motion. Ethan, Sir Malcolm and Hecate arrive at Jarod Talbot's ranch.",
+    "imgUrl": "/images/s3e6"
   },
   {
     "season": 3,
@@ -259,7 +271,8 @@
     "directedBy": "Paco Cabezas",
     "airingDate": "June 12, 2016",
     "usViewers": 0.746,
-    "plot": "Kaetenay has a vision of impending doom. Frankenstein and Jekyll get help from an unlikely foe. The Creature finally gains courage. And with the help of Catriona, Vanessa learns an awful truth."
+    "plot": "Kaetenay has a vision of impending doom. Frankenstein and Jekyll get help from an unlikely foe. The Creature finally gains courage. And with the help of Catriona, Vanessa learns an awful truth.",
+    "imgUrl": "/images/s3e7"
   },
   {
     "season": 3,
@@ -269,7 +282,8 @@
     "directedBy": "Damon Thomas",
     "airingDate": "June 19, 2016",
     "usViewers": 0.448,
-    "plot": "Ethan, Sir Malcolm and Kaetenay return to London. Dr. Seward discovers Renfield's secret. Meanwhile, Ethan heads out in search of Dr. Frankenstein. And Lily reveals a heartbreaking story from Brona Croft's past."
+    "plot": "Ethan, Sir Malcolm and Kaetenay return to London. Dr. Seward discovers Renfield's secret. Meanwhile, Ethan heads out in search of Dr. Frankenstein. And Lily reveals a heartbreaking story from Brona Croft's past.",
+    "imgUrl": "/images/s3e8"
   },
   {
     "season": 3,
@@ -279,6 +293,7 @@
     "directedBy": "Paco Cabezas",
     "airingDate": "June 19, 2016",
     "usViewers": 0.551,
-    "plot": "Ethan learns the shocking truth about Kaetenay. Dr. Seward uses hypnosis on Renfield. Meanwhile, The Creature must make a moral decision as Sir Malcolm, Ethan, Kaetenay, Dr. Seward and Catriona battle to save Vanessa."
+    "plot": "Ethan learns the shocking truth about Kaetenay. Dr. Seward uses hypnosis on Renfield. Meanwhile, The Creature must make a moral decision as Sir Malcolm, Ethan, Kaetenay, Dr. Seward and Catriona battle to save Vanessa.",
+    "imgUrl": "/images/s3e9"
   }
 ]
