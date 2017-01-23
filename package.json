@@ -1,18 +1,24 @@
 {
   "name": "express-example",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Cool",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
   },
+  "author": "fabioamp",
+  "license": "MIT",
   "dependencies": {
     "body-parser": "~1.15.2",
     "cookie-parser": "~1.4.3",
     "debug": "~2.2.0",
     "ejs": "~2.5.2",
     "express": "~4.14.0",
+    "mongoose": "^4.7.7",
     "morgan": "~1.7.0",
-    "serve-favicon": "~2.3.0",
-    "mongoose": "*"
+    "serve-favicon": "~2.3.0"
+  },
+  "engines": {
+    "node": "6.9.2"
   }
 }
