@@ -8,7 +8,7 @@ var characters;
 
 /* GET characters page. */
 router.get('/', function(req, res, next) {
-    mongoose.connect('mongodb://localhost/pennydreadful');
+    mongoose.connect('mongodb://fabioamp:eu1234@ds127439.mlab.com:27439/penny-dreadfuldb');
 
     Character.getCharacters()
         .then(function(instance) {

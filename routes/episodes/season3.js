@@ -10,7 +10,8 @@ var episodesList;
 
 /* GET season 3 episodes page. */
 router.get('/', function(req, res) {
-    mongoose.connect('mongodb://localhost/pennydreadful');
+    mongoose.connect('mongodb://fabioamp:eu1234@ds127439.mlab.com:27439/penny-dreadfuldb');
+    
     Season.getSeasonByName("Season 3")
         .then(function(instance){
             seasonList = instance;

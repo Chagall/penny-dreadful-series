@@ -10,25 +10,7 @@ var episodesList;
 
 /* GET season 2 episodes page. */
 router.get('/', function(req, res) {
-    mongoose.connect('mongodb://localhost/pennydreadful');
-/*
-    Season.getSeasonByName("Season 2", function(err, season) {
-        if(err){
-            mongoose.disconnect();
-            throw err;
-        }
-        seasonList = season;
-    });
-
-    Episode.getEpisodesBySeason(2, function (err, episodes) {
-        if(err){
-            mongoose.disconnect();
-            throw err;
-        }
-        episodesList = episodes;
-
-    });
-    */
+    mongoose.connect('mongodb://fabioamp:eu1234@ds127439.mlab.com:27439/penny-dreadfuldb');
 
     Season.getSeasonByName("Season 2")
         .then(function(instance){
