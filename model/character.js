@@ -20,5 +20,5 @@ var Character = module.exports = mongoose.model('Character', characterSchema);
 
 // Get All Characters
 module.exports.getCharacters = function(callback) {
-    return Character.find(callback).exec();
+    return Character.find(callback).sort({"name":1}).exec();
 };

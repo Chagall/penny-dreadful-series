@@ -26,6 +26,7 @@ router.get('/', function(req, res) {
             mongoose.disconnect();
         })
         .catch(function(err){
+            mongoose.disconnect();
             console.log(err);
         });
 });

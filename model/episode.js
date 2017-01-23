@@ -49,5 +49,5 @@ module.exports.getEpisodes = function(callback, limit) {
 
 // Get Episodes By Season
 module.exports.getEpisodesBySeason = function(number, callback) {
-    return Episode.find({"season": number}, callback).exec();
+    return Episode.find({"season": number}, callback).sort({"number":1}).exec();
 };
