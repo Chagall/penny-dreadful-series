@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Season 1",
+    "numberOfEpisodes": 8,
+    "premiereDate": "May 11, 2014",
+    "finaleDate": "June 29, 2014",
+    "description": "Season 1 of Showtime's horror drama series Penny Dreadful is eight episodes long, and introduces an unlikely cast of heroes battling an incursion of vampires in Victorian London.",
+    "plot": "This series contains some of literature's most terrifying characters, Vanessa Ives (an enigmatic, composed, driven heroine who ignores zeitgeist and proves herself a force to be reckoned with.) and Sir Malcolm Murray (a hardened explorer of the African continent, on a deeply personal quest to find his kidnapped daughter Mina.) form a deeper bond as the group, including Ethan Chandler (a charming, brash, daring American man of action with uncanny marksmanship, who detests violence and is more complicated than he likes to admit.), Victor Frankenstein (an arrogant young man whose whole life revolves around his research.), and Sembene (a long-time ally of Sir Malcolm with a mysterious persona.), unite together to find Sir Malcolm Murray's missing daughter and banish the evil forces that threaten to destroy them. Meanwhile, Dorian Gray (a confident, entrancing, yet lonely, self-isolating man who cannot die.), the Creature (a reanimated corpse brought to life and abandoned by Frankenstein who tracks down his creator and demands that Frankenstein create a mate for him.) and Brona Croft (an Irish immigrant seeking to escape her brutal past.) hover on the periphery of the core group. Penny Dreadful is a frightening psychological thriller that weaves together these classic horror origin stories into a new adult drama."
+  },
+  {
+    "name": "Season 2",
+    "numberOfEpisodes": 10,
+    "premiereDate": "May 3, 2015",
+    "finaleDate": "July 5, 2015",
+    "description": "Season 2 of Showtime's horror drama series Penny Dreadful consists of ten episodes covering a new story arc that pits Vanessa Ives and her allies against the witchcraft of the nightcomers.",
+    "plot": "The brilliant and thrilling Penny Dreadful is back with a deeper, more haunting look at the demons within us all. This season, Vanessa Ives and her allies find themselves locked in epic battle against an unholy evil that will arouse every forbidden instinct, unlock every secret and turn every sin of their past against them. But how do you fight the most wicked enemy, when the price of victory could be your own damnation?"
+  },
+  {
+    "name": "Season 3",
+    "numberOfEpisodes": 9,
+    "premiereDate": "May 1, 2016",
+    "finaleDate": "June 19, 2016",
+    "description": "Season 3 of Showtime's horror drama series Penny Dreadful is nine-episode long, set to premiere on May 1, 2016.",
+    "plot": "Ethan Chandler, Frankenstein, and the gang must each face – and embrace – their own most truly monstrous selves. But for the beautiful and tortured Vanessa Ives, accepting her demons could plunge the world into unending darkness."
+  }
+]
