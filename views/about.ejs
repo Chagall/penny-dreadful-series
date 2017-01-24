@@ -7,42 +7,47 @@
         <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <link rel="stylesheet" type="text/css" href='/stylesheets/about.css' />
         <script src="https://use.fontawesome.com/533eac1d75.js"></script>
-    </head>
-    <body style="background-color: black">
-            <% include templates/navigation-bar.ejs %>
-            <img src="/images/about-header.png" class="img-responsive" style="margin:0">
-
-            <div class="container body-content-container">
-                <h1>About</h1>
-                <h2>This website was developed as an exercise to learn web development skills</h2>
-                <h2>Made By: Fábio Alves M. Pereira</h2>
-                <img src="/images/famp.jpg" class=" img-responsive img-circle center-block">
-
-                <p style="color: white;text-align: center;margin-top: 32px">Find me at</p>
-                <ul class="list-inline" style="text-align: center;">
-                    <li>
-                        <a href="mailto:famp@operamail.com" class="btn-social btn-outline" title="E-Mail me">
-                            <i class="fa fa-fw fa-at"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://github.com/chagall" target="_blank" class="btn-social btn-outline" title="chagall on GitHub">
-                            <i class="fa fa-fw fa-github"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://twitter.com/famprogrammer42" target="_blank" class="btn-social btn-outline" title="@AnjanaVakil on Twitter">
-                            <i class="fa fa-fw fa-twitter"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://www.linkedin.com/in/fabio-alves-martins-pereira " target="_blank" class="btn-social btn-outline" title="Fábio Pereira on LinkedIn">
-                            <i class="fa fa-fw fa-linkedin"></i>
-                        </a>
-                    </li>
-                </ul>
-            </div>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    </head>
+    <body style="background-color: black">
+        <% include templates/navigation-bar.ejs %>
+
+        <div class="container body-content-container">
+            <h2 class="about-logo">Penny Dreadful Series</h2>
+            <p class ="about-text">This website is dedicated to Showtime's Penny Dreadful, and was built as an exercise to learn web development skills.</p>
+
+            <h2 class="about-sublogo">About me</h2>
+            <img src="/images/famp.jpg" class="img-responsive img-circle center-block ">
+            <h2 class="about-sublogo">Fábio A. M. Pereira</h2>
+
+            <p class="find-me-at">Find me at</p>
+
+            <ul class="list-inline" style="text-align: center;">
+                <li>
+                    <a href="mailto:famp@operamail.com" class="btn-social btn-outline" title="E-Mail me">
+                        <i class="fa fa-fw fa-at"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://github.com/chagall" target="_blank" class="btn-social btn-outline" title="Chagall on GitHub">
+                        <i class="fa fa-fw fa-github"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://twitter.com/famprogrammer42" target="_blank" class="btn-social btn-outline" title="@famprogrammer42 on Twitter">
+                        <i class="fa fa-fw fa-twitter"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/in/fabio-alves-martins-pereira " target="_blank" class="btn-social btn-outline" title="Fábio Pereira on LinkedIn">
+                        <i class="fa fa-fw fa-linkedin"></i>
+                    </a>
+                </li>
+            </ul>
+
+            <p class="about-text">All images presented in this website are property of their own creators. I do not claim to own any of them.</p>
+
+        </div>
     </body>
 </html>

@@ -5,11 +5,11 @@
 
 .character-image {
     height: 256px;
-    width: 200px;
+    width: 216px;
 }
 
 .character-name {
-    font: 18px "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font: 18px "Roboto", Helvetica, Arial, sans-serif;
     color: white;
     position: absolute;
     width: 100%;

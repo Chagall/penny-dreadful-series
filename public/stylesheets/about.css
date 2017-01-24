@@ -1,13 +1,41 @@
+.about-logo {
+    font: 40px "Roboto", Helvetica, Arial, sans-serif;
+    color: white;
+    text-align: center;
+    margin-top: 32px
+}
+
+.about-sublogo {
+    font: 32px "Roboto", Helvetica, Arial, sans-serif;
+    color: white;
+    text-align: center;
+    margin-top: 32px
+}
+
+.about-text {
+    font: 18px "Roboto", Helvetica, Arial, sans-serif;
+    color: white;
+    text-align: center;
+    margin-top: 18px
+}
+
+.find-me-at {
+    font: 18px "Roboto", Helvetica, Arial, sans-serif;
+    color: white;
+    text-align: center;
+    margin-top: 32px
+}
+
 /* Adapted from Alexandre Vicenzi https://alexandrevicenzi.com/ */
 .btn-social {
     display: inline-block;
     border: 2px solid #fff;
     border-radius: 100%;
     text-align: center;
-    width: 2.5em;
-    height: 2.5em;
-    font-size: 2em;
-    line-height: 2.5em;
+    width: 3.5em;
+    height: 3.5em;
+    font-size: 5em;
+    line-height: 3.5em;
 }
 
 .btn-outline {
@@ -19,5 +47,18 @@
 }
 
 a.btn-outline {
+    color: inherit;
+}
+
+/*a.btn-outline:active,*/
+a.btn-outline:hover {
+    opacity: .75;
+    background: 0;
+    color: #fff;
+}
+
+a.btn-outline:active {
+    opacity: 1;
+    background: #fff;
     color: inherit;
 }
