@@ -2,67 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ef54eb8-de52-490f-aad4-c55d7e9ab61a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/welcome.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/json_data/characters.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/json_data/episodes_list.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/json_data/season3.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/json_data/seasons_list.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/404.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/welcome-image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/welcome.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sketch/404.sketch" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sketch/welcome-image-original.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sketch/welcome-image.sketch" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/Brona Croft.png" afterPath="$PROJECT_DIR$/public/images/characters/Brona Croft.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/Claire Ives.png" afterPath="$PROJECT_DIR$/public/images/characters/Claire Ives.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/Creature.png" afterPath="$PROJECT_DIR$/public/images/characters/Creature.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/Dorian Gray.png" afterPath="$PROJECT_DIR$/public/images/characters/Dorian Gray.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/Ethan Chandler.png" afterPath="$PROJECT_DIR$/public/images/characters/Ethan Chandler.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/Evelyn Poole.png" afterPath="$PROJECT_DIR$/public/images/characters/Evelyn Poole.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/Ferdinand Lyle.png" afterPath="$PROJECT_DIR$/public/images/characters/Ferdinand Lyle.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/Gladys Murray.png" afterPath="$PROJECT_DIR$/public/images/characters/Gladys Murray.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/Mina Murray.png" afterPath="$PROJECT_DIR$/public/images/characters/Mina Murray.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/Peter Murray.png" afterPath="$PROJECT_DIR$/public/images/characters/Peter Murray.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/Proteus.png" afterPath="$PROJECT_DIR$/public/images/characters/Proteus.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/Season 1.jpg" afterPath="$PROJECT_DIR$/public/images/season_poster/season-1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/Season 2.jpg" afterPath="$PROJECT_DIR$/public/images/season_poster/season-2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/Season 3.jpg" afterPath="$PROJECT_DIR$/public/images/season_poster/season-3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/Sembene.png" afterPath="$PROJECT_DIR$/public/images/characters/Sembene.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/Sir Malcolm Murray.png" afterPath="$PROJECT_DIR$/public/images/characters/Sir Malcolm Murray.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/Vanessa Ives.png" afterPath="$PROJECT_DIR$/public/images/characters/Vanessa Ives.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/Victor Frankenstein.png" afterPath="$PROJECT_DIR$/public/images/characters/Victor Frankenstein.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s1e1.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s1e1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s1e2.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s1e2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s1e3.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s1e3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s1e4.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s1e4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s1e5.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s1e5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s1e6.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s1e6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s1e7.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s1e7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s1e8.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s1e8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s2e1.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s2e1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s2e10.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s2e10.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s2e2.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s2e2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s2e3.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s2e3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s2e4.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s2e4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s2e5.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s2e5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s2e6.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s2e6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s2e7.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s2e7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s2e8.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s2e8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s2e9.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s2e9.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s3e1.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s3e1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s3e2.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s3e2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s3e3.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s3e3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s3e4.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s3e4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s3e5.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s3e5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s3e6.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s3e6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s3e7.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s3e7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s3e8.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s3e8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/s3e9.jpg" afterPath="$PROJECT_DIR$/public/images/episodes/s3e9.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascripts/connection/connection-string.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/characters.ejs" afterPath="$PROJECT_DIR$/views/characters.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/episodes.ejs" afterPath="$PROJECT_DIR$/views/episodes.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/error/404.ejs" afterPath="$PROJECT_DIR$/views/error/404.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/home.ejs" afterPath="$PROJECT_DIR$/views/home.ejs" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -79,48 +21,85 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="episodes.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/episodes.ejs">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="season2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/episodes/season2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="87" lean-forward="false" selection-start-line="26" selection-start-column="87" selection-end-line="26" selection-end-column="87" />
+            <state relative-caret-position="195">
+              <caret line="13" column="59" lean-forward="false" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/home.ejs">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="season1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/episodes/season1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="59" lean-forward="false" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="season3.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/episodes/season3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="59" lean-forward="false" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="characters.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/characters.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+              <caret line="11" column="59" lean-forward="false" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="characters.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/characters.ejs">
+      <file leaf-file-name="character.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/character.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+            <state relative-caret-position="345">
+              <caret line="23" column="2" lean-forward="false" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="404.ejs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/views/error/404.ejs">
+      <file leaf-file-name="connection-string.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/connection/connection-string.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+            <state relative-caret-position="45">
+              <caret line="3" column="53" lean-forward="false" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -135,12 +114,8 @@
       <list>
         <option value="$PROJECT_DIR$/json_data/episodes_list.json" />
         <option value="$PROJECT_DIR$/json_data/seasons_list.json" />
-        <option value="$PROJECT_DIR$/routes/characters.js" />
-        <option value="$PROJECT_DIR$/routes/episodes/season1.js" />
         <option value="$PROJECT_DIR$/model/character.js" />
         <option value="$PROJECT_DIR$/model/episode.js" />
-        <option value="$PROJECT_DIR$/routes/episodes/season2.js" />
-        <option value="$PROJECT_DIR$/routes/episodes/season3.js" />
         <option value="$PROJECT_DIR$/public/stylesheets/characters.css" />
         <option value="$PROJECT_DIR$/views/about.ejs" />
         <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
@@ -152,6 +127,13 @@
         <option value="$PROJECT_DIR$/views/episodes.ejs" />
         <option value="$PROJECT_DIR$/views/characters.ejs" />
         <option value="$PROJECT_DIR$/views/error/404.ejs" />
+        <option value="$PROJECT_DIR$/public/javascripts/connection-string.js" />
+        <option value="$PROJECT_DIR$/routes/characters.js" />
+        <option value="$PROJECT_DIR$/routes/episodes/season3.js" />
+        <option value="$PROJECT_DIR$/routes/episodes/season1.js" />
+        <option value="$PROJECT_DIR$/routes/episodes/season2.js" />
+        <option value="$PROJECT_DIR$/public/javascripts/connection/connection-string.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -167,9 +149,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="14" />
     <option name="width" value="1920" />
-    <option name="height" value="1053" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -189,7 +170,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -202,40 +182,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="penny-dreadful-series" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="penny-dreadful-series" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="penny-dreadful-series" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="penny-dreadful-series" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="error" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -249,6 +198,11 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="SearchEverywhereHistoryKey" value="cha&#9;FILE&#9;file:///Users/fabiopereira/Desktop/penny-dreadful-series/views/characters.ejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/javascripts/connection" />
+    </key>
   </component>
   <component name="RunManager" selected="Node.js.bin/www">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -397,35 +351,36 @@
       <workItem from="1485195555142" duration="864000" />
       <workItem from="1485210644263" duration="3116000" />
       <workItem from="1485287619200" duration="4135000" />
-      <workItem from="1485366824334" duration="1168000" />
+      <workItem from="1485366824334" duration="2354000" />
+      <workItem from="1485370227756" duration="288000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9357000" />
+    <option name="totallyTimeSpent" value="10831000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="14" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24920128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24920128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32858595" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904148" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32858595" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32772276" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32858595" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -439,17 +394,20 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/json_data/episodes_list.json">
+    <entry file="file://$PROJECT_DIR$/routes/episodes/season2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4065">
-          <caret line="271" column="34" lean-forward="false" selection-start-line="271" selection-start-column="34" selection-end-line="271" selection-end-column="34" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/json_data/episodes_list.json" />
     <entry file="file://$PROJECT_DIR$/model/character.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -464,6 +422,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -471,6 +430,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -478,7 +438,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="59" lean-forward="true" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -486,24 +445,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="63" lean-forward="true" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/episodes/season3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/episodes/season3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/json_data/seasons_list.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="16" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/json_data/seasons_list.json" />
     <entry file="file://$PROJECT_DIR$/model/season.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -511,95 +464,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/json_data/episodes_list.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/episodes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/characters.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/character.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" column="2" lean-forward="false" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/episode.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="52" column="2" lean-forward="false" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/json_data/episodes_list.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4065">
-          <caret line="271" column="34" lean-forward="false" selection-start-line="271" selection-start-column="34" selection-end-line="271" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/episodes/season2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/episodes/season1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/episodes/season3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/json_data/seasons_list.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="16" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/season.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/json_data/episodes_list.json" />
+    <entry file="file://$PROJECT_DIR$/json_data/episodes_list.json" />
+    <entry file="file://$PROJECT_DIR$/json_data/seasons_list.json" />
     <entry file="file://$PROJECT_DIR$/public/stylesheets/navigation-bar.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -607,7 +478,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -615,7 +485,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -623,7 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-97">
           <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -647,7 +515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -662,7 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -670,7 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
           <caret line="21" column="88" lean-forward="false" selection-start-line="21" selection-start-column="88" selection-end-line="21" selection-end-column="88" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -678,7 +543,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="59" lean-forward="true" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -686,7 +550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -694,7 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="87" lean-forward="false" selection-start-line="26" selection-start-column="87" selection-end-line="26" selection-end-column="87" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -702,7 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -710,7 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -718,6 +578,96 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/episode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="52" column="2" lean-forward="false" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/season.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="true" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/about.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/episodes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/episodes/season2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="59" lean-forward="false" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/episodes/season1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="59" lean-forward="false" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/episodes/season3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="59" lean-forward="false" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/characters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="59" lean-forward="false" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/character.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="2" lean-forward="false" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/connection/connection-string.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="53" lean-forward="false" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
           <folding />
         </state>
       </provider>

@@ -1,2 +1,4 @@
 node_modules
-public/javascripts/connection
+public/javascripts/connection/connection-string.js
+routes/characters/
+views/characters/
