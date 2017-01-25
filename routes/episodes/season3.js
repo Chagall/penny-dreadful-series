@@ -1,6 +1,7 @@
 var express = require('express');
 var router = express.Router();
 var mongoose = require('mongoose');
+var connectionString = require('../../public/javascripts/connection/connection-string')
 
 Episode = require('../../model/episode');
 Season = require('../../model/season');
@@ -10,7 +11,7 @@ var episodesList;
 
 /* GET season 3 episodes page. */
 router.get('/', function(req, res) {
-    mongoose.connect('mongodb://fabioamp:eu1234@ds127439.mlab.com:27439/penny-dreadfuldb');
+    mongoose.connect(connectionString.getConnectionString());
 
     Season.getSeasonByName("Season 3")
         .then(function(instance){
