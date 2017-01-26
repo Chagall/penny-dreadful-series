@@ -47,7 +47,7 @@ var characterSchema = mongoose.Schema({
 var Character = module.exports = mongoose.model('Character', characterSchema);
 
 // Get All Characters
-module.exports.getCharactersInfo = function(callback) {
+module.exports.getCharactersFullInfo = function(callback) {
     return Character.find(callback).sort({"name":1}).exec();
 };
 

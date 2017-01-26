@@ -11,11 +11,10 @@ var characters;
 router.get('/', function(req, res, next) {
     mongoose.connect(connectionString.getConnectionString());
 
-    Character.getCharacters()
+    Character.getCharacterBasicInfo()
         .then(function(instance) {
-            characters = instance;
             res.render('characters', {
-                charactersList: characters
+                charactersList: instance
             });
             mongoose.disconnect();
         })
