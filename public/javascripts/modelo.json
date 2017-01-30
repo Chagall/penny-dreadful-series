@@ -14,7 +14,7 @@
   "pictureUrl": "/images/characters/.png"
 },
 
-// BAD JSON
+// BAD JSON - Vanenssa Ives falta appearance. Provavelmente vai dar o mesmo problema
 {
   "name": "Brona Croft",
   "portrayedBy": "Billie Piper",
