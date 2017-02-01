@@ -6,7 +6,7 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 
 /*
-    Routes Requires
+    Route Requirements of the Application
  */
 var home = require('./routes/home');
 var about = require('./routes/about');
@@ -15,9 +15,9 @@ var episodes = require('./routes/episodes');
 var season1 = require('./routes/episodes/season1');
 var season2 = require('./routes/episodes/season2');
 var season3 = require('./routes/episodes/season3');
+var character = require('./routes/characters/character');
 
 var app = express();
-var wesbiteName = "pennydreadfulseries.online";
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -41,6 +41,51 @@ app.use('/episodes', episodes);
 app.use('/episodes/season1', season1);
 app.use('/episodes/season2', season2);
 app.use('/episodes/season3', season3);
+/*
+    Each series Character is routed through /routes/character.js
+    And there it is resolved whose information should be loaded on the
+    web page
+ */
+app.use('/characters/abraham_van_helsing', character);
+app.use('/characters/angelique', character);
+app.use('/characters/bartholomew_rusk', character);
+app.use('/characters/brona_croft', character);
+app.use('/characters/captain_branson', character);
+app.use('/characters/caroline_frankenstein', character);
+app.use('/characters/catriona_hartdegen', character);
+app.use('/characters/claire_ives', character);
+app.use('/characters/creature', character);
+app.use('/characters/dorian_gray', character);
+app.use('/characters/dracula', character);
+app.use('/characters/ethan_chandler', character);
+app.use('/characters/evelyn_poole', character);
+app.use('/characters/fenton', character);
+app.use('/characters/ferdinand_lyle', character);
+app.use('/characters/florence_seward', character);
+app.use('/characters/gladys_murray', character);
+app.use('/characters/gordon_ives', character);
+app.use('/characters/hecate_poole', character);
+app.use('/characters/henry_jekyll', character);
+app.use('/characters/jared_talbot', character);
+app.use('/characters/joan_clayton', character);
+app.use('/characters/justine', character);
+app.use('/characters/kaetenay', character);
+app.use('/characters/lavinia_putney', character);
+app.use('/characters/lucifer', character);
+app.use('/characters/mina_murray', character);
+app.use('/characters/octavia_putney', character);
+app.use('/characters/oscar_putney', character);
+app.use('/characters/peter_murray', character);
+app.use('/characters/proteus', character);
+app.use('/characters/renfield', character);
+app.use('/characters/sembene', character);
+app.use('/characters/sir_geoffrey_hawkes', character);
+app.use('/characters/sir_malcolm_murray', character);
+app.use('/characters/vanessa_ives', character);
+app.use('/characters/victor_frankenstein', character);
+app.use('/characters/vincent_brand', character);
+app.use('/characters/warren_roper', character);
+
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

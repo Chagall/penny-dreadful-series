@@ -4,21 +4,31 @@
 }
 
 .character-image {
-    height: 256px;
-    width: 216px;
+    height: 141px;
+    width: 124px;
 }
 
-.character-name {
-    font: 18px "Roboto", Helvetica, Arial, sans-serif;
+.character-title {
+    font: 12px "Roboto", Helvetica, Arial, sans-serif;
+    text-align: center;
     color: white;
-    position: absolute;
-    width: 100%;
-    top: 220px;;
+    background-color: darkred;
+    border-radius: 6px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left: 18px;
+    margin-right: 18px;
 }
 
-.character-name-span {
-    width: 100%;
-    background: rgb(0, 0, 0); /* fallback color */
-    background: rgba(0, 0, 0, 0.7);
-    padding: 10px;
+/*
+    Character Detail Page
+ */
+
+.title {
+    color: white;
+}
+
+.sub-title {
+    color: white;
+
 }
