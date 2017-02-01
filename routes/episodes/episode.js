@@ -8,8 +8,8 @@ Episode = require('../../model/episode');
 /* GET a character's information page. */
 router.get('/', function(req, res) {
     var baseUrlArrayStrip = req.baseUrl.split("/");
-    var seasonNumber = baseUrlArrayStrip[2].charAt(seasonName.length-1);
-    var episodeNumber = baseUrlArrayStrip[3].charAt(episodeName.length-1);
+    var seasonNumber = baseUrlArrayStrip[2].charAt(baseUrlArrayStrip[2].length-1);
+    var episodeNumber = baseUrlArrayStrip[3].charAt(baseUrlArrayStrip[3].length-1);
 
     mongoose.connect(connectionString.getConnectionString());
 
