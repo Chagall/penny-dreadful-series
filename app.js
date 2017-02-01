@@ -16,6 +16,7 @@ var season1 = require('./routes/episodes/season1');
 var season2 = require('./routes/episodes/season2');
 var season3 = require('./routes/episodes/season3');
 var character = require('./routes/characters/character');
+var episode = require('./routes/episodes/episode');
 
 var app = express();
 
@@ -42,7 +43,7 @@ app.use('/episodes/season1', season1);
 app.use('/episodes/season2', season2);
 app.use('/episodes/season3', season3);
 /*
-    Each series Character is routed through /routes/character.js
+    Each series Character is routed through /routes/characters/character.js
     And there it is resolved whose information should be loaded on the
     web page
  */
@@ -85,7 +86,38 @@ app.use('/characters/vanessa_ives', character);
 app.use('/characters/victor_frankenstein', character);
 app.use('/characters/vincent_brand', character);
 app.use('/characters/warren_roper', character);
-
+/*
+ Each series Episode is routed through /routes/episodes/episode.js
+ And there it is resolved which episode's information should be loaded
+ on the web page
+ */
+app.use('/episodes/season1/e1', episode);
+app.use('/episodes/season1/e2', episode);
+app.use('/episodes/season1/e3', episode);
+app.use('/episodes/season1/e4', episode);
+app.use('/episodes/season1/e5', episode);
+app.use('/episodes/season1/e6', episode);
+app.use('/episodes/season1/e7', episode);
+app.use('/episodes/season1/e8', episode);
+app.use('/episodes/season2/e1', episode);
+app.use('/episodes/season2/e2', episode);
+app.use('/episodes/season2/e3', episode);
+app.use('/episodes/season2/e4', episode);
+app.use('/episodes/season2/e5', episode);
+app.use('/episodes/season2/e6', episode);
+app.use('/episodes/season2/e7', episode);
+app.use('/episodes/season2/e8', episode);
+app.use('/episodes/season2/e9', episode);
+app.use('/episodes/season2/e10', episode);
+app.use('/episodes/season3/e1', episode);
+app.use('/episodes/season3/e2', episode);
+app.use('/episodes/season3/e3', episode);
+app.use('/episodes/season3/e4', episode);
+app.use('/episodes/season3/e5', episode);
+app.use('/episodes/season3/e6', episode);
+app.use('/episodes/season3/e7', episode);
+app.use('/episodes/season3/e8', episode);
+app.use('/episodes/season3/e9', episode);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
