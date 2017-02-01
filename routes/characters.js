@@ -11,7 +11,7 @@ var characters;
 router.get('/', function(req, res, next) {
     mongoose.connect(connectionString.getConnectionString());
 
-    Character.getCharacterBasicInfo()
+    Character.getCharactersBasicInfo()
         .then(function(instance) {
             res.render('characters', {
                 charactersList: instance

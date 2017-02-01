@@ -51,6 +51,10 @@ module.exports.getCharactersFullInfo = function(callback) {
     return Character.find(callback).sort({"name":1}).exec();
 };
 
-module.exports.getCharacterBasicInfo = function(callback) {
+module.exports.getCharactersBasicInfo = function(callback) {
     return Character.find({},{ name: 1, pageUrl: 1, pictureUrl: 1}, callback).sort({"name":1}).exec();
+};
+
+module.exports.getCharacterInfoByPageUrl = function(pageUrl, callback) {
+    return Character.findOne({"pageUrl": pageUrl}, callback).exec();
 };

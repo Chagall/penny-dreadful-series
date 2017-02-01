@@ -4,23 +4,31 @@
 }
 
 .character-image {
-    height: 256px;
-    width: 216px;
+    height: 141px;
+    width: 124px;
 }
 
 .character-title {
     font: 12px "Roboto", Helvetica, Arial, sans-serif;
-    text-align: justify;
+    text-align: center;
     color: white;
     background-color: darkred;
-    position: absolute;
-    top: 220px;
-    left: 35px;
-    border-bottom-right-radius: 9px;
-    border-top-right-radius: 9px;
-    line-height: 16px;
-    max-height: 32px;
-    max-width: 135px;
-    overflow: hidden;
-    padding: 3px 5px 5px 5px;
+    border-radius: 6px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left: 18px;
+    margin-right: 18px;
+}
+
+/*
+    Character Detail Page
+ */
+
+.title {
+    color: white;
+}
+
+.sub-title {
+    color: white;
+
 }
