@@ -8,218 +8,290 @@
 
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/about</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season1</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season2</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season3</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/abraham_van_helsing</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/angelique</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/bartholomew_rusk</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/brona_croft</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/captain_branson</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/caroline_frankenstein</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/catriona_hartdegen</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/claire_ives</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/creature</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/dorian_gray</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/dracula</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/ethan_chandler</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/evelyn_poole</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/fenton</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/ferdinand_lyle</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/florence_seward</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/gladys_murray</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/gordon_ives</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/hecate_poole</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/henry_jekyll</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/jared_talbot</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/joan_clayton</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/justine</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/kaetenay</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/lavinia_putney</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/lucifer</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/mina_murray</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/octavia_putney</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/oscar_putney</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/peter_murray</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/proteus</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/renfield</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/sembene</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/sir_geoffrey_hawkes</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/sir_malcolm_murray</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/vanessa_ives</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/victor_frankenstein</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/vincent_brand</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/characters/warren_roper</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season1/e1</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season1/e2</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season1/e3</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season1/e4</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season1/e5</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season1/e6</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season1/e7</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season1/e8</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season2/e1</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season2/e2</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season2/e3</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season2/e4</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season2/e5</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season2/e6</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season2/e7</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season2/e8</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season2/e9</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season3/e1</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season3/e2</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season3/e3</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season3/e4</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season3/e5</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season3/e6</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season3/e7</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season3/e8</loc>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>https://penny-dreadful-series.herokuapp.com/episodes/season3/e9</loc>
+  <changefreq>monthly</changefreq>
 </url>
 </urlset>
