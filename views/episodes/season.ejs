@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Season 1</title>
+        <title><%= season.name %></title>
         <meta http-equiv="X-UA-COMPATIBLE" content="IE=edge"/>
         <meta name="viewport" content="width = device-width, initial-scale = 1"/>
         <link rel='stylesheet' href='/stylesheets/style.css' />
@@ -12,11 +12,11 @@
     <body style="background-color: black">
         <% include ../templates/navigation-bar.ejs %>
         <div class="container season-episodes-container">
-            <h1 class="title">Season 1</h1>
+            <h1 class="title"><%= season.name %></h1>
             <div class="row">
                 <% episodesList.forEach(function(episode){ %>
                 <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-                    <a href="/episodes/season1/episode<%= episode.number %>">
+                    <a href="/episodes/season<%= season.name.charAt(season.name.length-1)%>/episode<%= episode.number %>">
                         <h3 class="episode-name">Episode <%= episode.number%>: <%= episode.title %></h3>
                         <img src="<%= episode.imgUrl %>" alt="Episode Image" class="img-thumbnail center-block">
                     </a>

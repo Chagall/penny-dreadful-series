@@ -11,9 +11,7 @@ var bodyParser = require('body-parser');
 var home = require('./routes/home');
 var about = require('./routes/about');
 var characters = require('./routes/characters');
-var season1 = require('./routes/episodes/season1');
-var season2 = require('./routes/episodes/season2');
-var season3 = require('./routes/episodes/season3');
+var season = require('./routes/episodes/season');
 var character = require('./routes/characters/character');
 var episode = require('./routes/episodes/episode');
 
@@ -37,9 +35,14 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', home);
 app.use('/about', about);
 app.use('/characters', characters);
-app.use('/episodes/season1', season1);
-app.use('/episodes/season2', season2);
-app.use('/episodes/season3', season3);
+/*
+     Each Season Episode List is routed through /routes/characters/season.js
+     And there it is resolved which information should be loaded on the
+     web page
+ */
+app.use('/episodes/season1', season);
+app.use('/episodes/season2', season);
+app.use('/episodes/season3', season);
 /*
     Each series Character is routed through /routes/characters/character.js
     And there it is resolved whose information should be loaded on the

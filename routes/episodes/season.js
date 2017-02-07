@@ -11,16 +11,18 @@ var episodesList;
 
 /* GET season 1 episodes page. */
 router.get('/', function(req, res) {
+    var seasonNumber = req.baseUrl.charAt(req.baseUrl.length-1);
+
     mongoose.connect(connectionString.getConnectionString());
 
-    Season.getSeasonByName("Season 1")
+    Season.getSeasonByName("Season " + seasonNumber)
         .then(function(instance){
             seasonList = instance;
-            return Episode.getEpisodesBySeason(1);
+            return Episode.getEpisodesBySeason(seasonNumber);
         })
         .then(function(instance){
             episodesList = instance;
-            res.render('episodes/season1', {
+            res.render('episodes/season', {
                 episodesList: episodesList,
                 season: seasonList
             });
