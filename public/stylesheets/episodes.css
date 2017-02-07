@@ -3,60 +3,6 @@
     margin-bottom: 16px;
 }
 
-.season-links-p {
-    font: 24px "Roboto", Helvetica, Arial, sans-serif;
-    text-align: center;
-}
-
-.season-links-a {
-    color: firebrick;
-    text-decoration: none;
-}
-
-/* Episodes Page */
-
-.bold {
-    font: 16px "Roboto-Bold", Helvetica, Arial, sans-serif;
-    color: white;
-    text-align: justify;
-    margin-left: 16px;
-}
-
-.description {
-    font: 16px "Roboto", Helvetica, Arial, sans-serif;
-    color: lightcoral;
-    margin-left: 16px;
-}
-
-.episode-container {
-    float: left;
-    margin: 16px;
-    width: 95%;
-    height: auto;
-    color: white;
-}
-
-.episode-image {
-    width: 256px;
-    height: 512px;
-    margin:16px;
-}
-
-.episode-description {
-    margin-right: 32px;
-    text-align: justify;
-}
-
-.episode-link {
-    color: white;
-    text-decoration: none;
-}
-
-
-/*
-    Episode Detail Page
- */
-
 .title {
     color: white;
 }
@@ -64,4 +10,16 @@
 .sub-title {
     color: white;
 
+}
+
+.episode-name {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+.season-episodes-container {
+    margin-bottom: 16px;
 }

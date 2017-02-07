@@ -25,7 +25,18 @@
             <div class="collapse navbar-collapse pull-right" id="mainNavBarCollapse">
                 <ul class="nav navbar-nav">
                     <li class="navbar-link"><a href="/"><span class="glyphicon glyphicon-home navbar-glyphicon"></span>Home</a></li>
-                    <li class="navbar-link"><a href="/episodes"><span class="glyphicon glyphicon glyphicon-film navbar-glyphicon"></span>Episodes</a></li>
+                    <li class="dropdown navbar-link">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                            <span class="glyphicon glyphicon glyphicon-film navbar-glyphicon"></span>
+                            Episodes
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/episodes/season1">Season 1</a></li>
+                            <li><a href="/episodes/season2">Season 2</a></li>
+                            <li><a href="/episodes/season3">Season 3</a></li>
+                        </ul>
+                    </li>
                     <li class="navbar-link"><a href="/characters"><span class="glyphicon glyphicon-user navbar-glyphicon"></span>Characters</a></li>
                     <li class="navbar-link"><a href="/about"><span class="glyphicon glyphicon-info-sign navbar-glyphicon"></span>About</a></li>
                 </ul>
