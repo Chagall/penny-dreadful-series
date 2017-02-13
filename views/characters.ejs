@@ -11,14 +11,14 @@
     </head>
     <body style="background-color: black">
         <% include templates/navigation-bar.ejs %>
-        <div class="container body-content-container">
-
+        <div class="container">
+            <h1 class="title page-header">Characters</h1>
             <div class="row">
                 <% charactersList.forEach(function(character){ %>
                 <div class="col-lg-2 col-md-3 col-sm-6 col-xs-12 character-container">
                     <a href="<%= character.pageUrl%>">
                         <img src="<%= character.pictureUrl %>" alt="Character Image" class="character-image img-rounded center-block">
-                        <p class="character-title"><%= character.name %></p>
+                        <p class="character-title"><span class="character-title-span"><%= character.name %></span></p>
                     </a>
                 </div>
                 <% }); %>

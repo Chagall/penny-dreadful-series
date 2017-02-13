@@ -12,14 +12,14 @@
     font: 12px "Roboto", Helvetica, Arial, sans-serif;
     text-align: center;
     color: white;
-    background-color: darkred;
-    border-radius: 6px;
-    margin-top: 4px;
-    margin-bottom: 4px;
-    margin-left: 18px;
-    margin-right: 18px;
 }
 
+.character-title-span {
+    background: rgb(204, 0, 0); /* fallback color */
+    background: rgba(204, 0, 0, 0.9);
+    border-radius: 4px;
+    padding: 4px;
+}
 /*
     Character Detail Page
  */
